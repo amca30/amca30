@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on projects that combine technology and creativity, particularly in web development and design. I am also seeking a junior web developer role or an apprenticeship to continue my learning journey.
 
-📫 How to reach me: You can reach me via email at caron.amelie94@gmail.com or connect with me on LinkedIn.
+📫 How to reach me: You can reach me via email at caron.amelie94@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/am%C3%A9lie-caron-9b8480b8/).
 
 Passionate about continuous learning and with several years of experience as a graphic designer and art director 🎨 at various companies, I have transitioned to full-stack web development 💻. 
 After completing an intensive nine-week bootcamp at Le Wagon in Paris, where I gained solid skills in Ruby, JavaScript, HTML, CSS, SCSS, and PostgreSQL, 
